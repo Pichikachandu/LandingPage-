@@ -77,10 +77,3 @@ To deploy your own version:
 2. Link your GitHub repository.
 3. Deploy the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you have any questions or feedback. Happy coding!
